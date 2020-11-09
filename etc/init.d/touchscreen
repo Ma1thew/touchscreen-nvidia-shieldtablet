@@ -1,0 +1,4 @@
+#!/sbin/openrc-run
+
+name="touchscreen"
+command="/system/bin/run-rm-wrapper"
